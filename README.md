@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush Priyadarsi</h1>
 <h3 align="center">Obsessed with Python, addicted to Machine Learning, and always training my model—both in data and in life.</h3>
 
-<p align="right">
-  <img src="https://media2.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif?cid=6c09b9529kc2fnxgpw26v9e8jw4rc1ffk396io4ncmkrgdc2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="150" height="150" />
-</p>
+<p align="right"><img src="https://media2.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif" width="150" height="150">&nbsp;</p>
 
 - 🌟 I’m currently working on **IPL_Project**
 - 🌱 I’m currently learning **Machine Learning, NLP, Python**
