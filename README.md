@@ -3,7 +3,6 @@
 
 <p align="right"><img src="https://media2.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif" width="150" height="150">&nbsp;</p>
 
-- 🌟 I’m currently working on **IPL_Project**
 - 🌱 I’m currently learning **Machine Learning, NLP, Python**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Pratyushprat01)
 - 📧 How to reach me **pratyushpriyadarsi@gmail.com**
